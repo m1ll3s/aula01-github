@@ -7,6 +7,7 @@ public class Program {
 
 		
 		 System.out.println("Olá");
+		 System.out.println("Testando terceiro Commit");
 	}
 
 }
